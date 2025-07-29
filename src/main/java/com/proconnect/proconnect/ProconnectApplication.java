@@ -8,6 +8,7 @@ public class ProconnectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ProconnectApplication.class, args);
+		System.out.println("Spring Boot Application Started");
 	}
 
 }
